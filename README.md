@@ -1,0 +1,18 @@
+[Deployed]()
+[Project Tracker](https://www.pivotaltracker.com/n/projects/2193583)
+[Client Code Github Repo](https://github.com/josh-robbs/galvanizereads-client)
+[Server Code Github Repo](https://github.com/josh-robbs/galvanizereads-server)
+[ERD](https://github.com/josh-robbs/galvanizereads-server/blob/master/galvanize-reads-ERD.png)
+
+Wireframe:
+![Index](https://s3-us-west-2.amazonaws.com/assessment-images/galvanize_reads/Galvanize+Reads+Homepage.png)
+![Books - List](https://s3-us-west-2.amazonaws.com/assessment-images/galvanize_reads/Galvanize+Reads+Book+List.png)
+![Books - Read](https://s3-us-west-2.amazonaws.com/assessment-images/galvanize_reads/Galvanize+Reads+Book+Read.png)
+![Books - New](https://s3-us-west-2.amazonaws.com/assessment-images/galvanize_reads/Galvanize+Reads+Book+New.png)
+![Books - Edit](https://s3-us-west-2.amazonaws.com/assessment-images/galvanize_reads/Galvanize+Reads+Book+Edit.png)
+![Books - Delete](https://s3-us-west-2.amazonaws.com/assessment-images/galvanize_reads/Galvanize+Reads+Book+Delete.png)
+![Authors - List](https://s3-us-west-2.amazonaws.com/assessment-images/galvanize_reads/Galvanize+Reads+Author+List.png)
+![Authors - Read](https://s3-us-west-2.amazonaws.com/assessment-images/galvanize_reads/Galvanize+Reads+Author+Read.png)
+![Authors - New](https://s3-us-west-2.amazonaws.com/assessment-images/galvanize_reads/Galvanize+Reads+Author+New.png)
+![Authors - Edit](https://s3-us-west-2.amazonaws.com/assessment-images/galvanize_reads/Galvanize+Reads+Author+Edit.png)
+![Authors - Delete](https://s3-us-west-2.amazonaws.com/assessment-images/galvanize_reads/Galvanize+Reads+Author+Delete.png)
